@@ -1,6 +1,6 @@
 # IACS Spatial Data Sharing - Technical Guidelines
 
-The purpose of this repository is to host the [Technical Guidelines on IACS Data Sharing - geoIACS](tg/Technical_Guidelines_on_IACS_Data_Sharing.pdf).
+The purpose of this repository is to host the [Technical Guidelines on IACS Data Sharing - geoIACS](tg/).
 
 To participate in the discussions, go to the [dedicated section](https://github.com/orgs/geoIACS/discussions).
 
